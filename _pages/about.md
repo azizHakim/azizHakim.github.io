@@ -55,3 +55,9 @@ Throughout the semester, we encountered a few challenges, including the implemen
 ### Future Outlook:
 
 As we move forward, the Buddy Bites project holds incredible potential for further expansion and refinement. It's not just an academic endeavor; it's a market-ready application that can be further developed, tested, and deployed to meet the growing demand for user-friendly event planning and culinary exploration tools.
+
+
+<div style="display: flex; align-items: center;">
+    <img src="https://leetcard.jacoblin.cool/systemfraud?theme=light&font=Karma&ext=contest" alt="Image 1" height="280px">
+    <img src="https://raw.githubusercontent.com/soliton/cf-stats/main/output/light_card.svg" alt="Image 2" height="280px">
+</div>
