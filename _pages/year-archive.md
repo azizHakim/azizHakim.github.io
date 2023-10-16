@@ -1,3 +1,12 @@
+---
+layout: archive
+permalink: /year-archive/
+title: "Blog posts"
+author_profile: true
+redirect_from:
+  - /wordpress/blog-posts/
+---
+
 # Welcome to My Blog Page
 
 Here, you can find a collection of my recent blog posts on Software Development, Machine Learning, and DevOps.
