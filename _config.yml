@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  avatar           : "my-profile.jpg"
   bio              : "Master's in Applied Computer Science"
   location         : "Grand Rapids, MI, USA"
   employer         :
