@@ -7,8 +7,6 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
-# Welcome to My Blog Page
-
 Here, you can find a collection of my recent blog posts on Software Development, Machine Learning, and DevOps.
 
 
