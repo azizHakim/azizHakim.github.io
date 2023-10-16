@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "S M Azizul Hakim"
   avatar           : "my-profile.jpg"
-  bio              : "Master's in Applied Computer Science"
+  bio              : "Pursuing Master's in Applied Computer Science"
   location         : "Grand Rapids, MI, USA"
   employer         :
   pubmed           : 
@@ -106,7 +106,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/9152707/heisenberg"
   steam            :
   tumblr           :
   twitter          : 
