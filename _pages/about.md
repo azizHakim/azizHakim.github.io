@@ -39,7 +39,7 @@ Currently pursuing my master's in Applied Computer Science at Grand Valley State
 
 
 ### Problem Solving Stats
-<p float="center">
+<p float="left">
 <img height="150em" src="https://leetcard.jacoblin.cool/systemfraud?theme=light&font=Karma&ext=contest" />
 <img height="150em" src="https://raw.githubusercontent.com/azizHakim/cf-stats/main/output/light_card.svg" />
 
