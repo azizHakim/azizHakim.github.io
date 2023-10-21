@@ -16,11 +16,11 @@ Currently pursuing my master's in Applied Computer Science at Grand Valley State
 
 ## Who I am
 
- - Interested in Sorftware Engineering, Backend Engineering, Distributed Systems, ML System Design.
+ - :fire: Interested in Sorftware Engineering, Backend Engineering, Distributed Systems, ML System Design.
 
- - Up for Fishing, Vollyball, Football, a cup of Coffee.
+ - 🌱 Up for Fishing, Vollyball, Football, a cup of Coffee.
 
- - Currently reading Winter of The World by Ken Follet.
+ - 🌍 Currently reading Winter of The World by Ken Follet.
 
 ## Tech Stack
 
