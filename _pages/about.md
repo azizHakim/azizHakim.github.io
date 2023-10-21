@@ -38,14 +38,14 @@ Currently pursuing my master's in Applied Computer Science at Grand Valley State
 **Miscellaneous:** ElasticSearch, Redis, Celery, Scrappy.
 
 
-### ✔️ Problem Solving Stats
+## ✔️ Problem Solving Stats
 <p float="left">
 <img Height= "100em" src="https://leetcard.jacoblin.cool/systemfraud?theme=light&font=Karma&ext=contest" />
 <img Height="100em" src="https://raw.githubusercontent.com/azizHakim/cf-stats/main/output/light_card.svg" />
 
 </p>
 
-<b>⚡ Github Stats</b>
+## ⚡ Github Stats
 <p float="left">
 <img height="150em" src="https://raw.githubusercontent.com/azizHakim/github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
 <img height="150em" src="https://raw.githubusercontent.com/azizHakim/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
