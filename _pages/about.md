@@ -59,5 +59,5 @@ As we move forward, the Buddy Bites project holds incredible potential for furth
 
 <!-- <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/systemfraud?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/soliton/cf-stats/main/output/light_card.svg" />
+<img height="280em" src="https://raw.githubusercontent.com/azizHakim/cf-stats/main/output/light_card.svg" />
 </p> -->
