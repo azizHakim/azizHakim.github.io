@@ -14,16 +14,16 @@ With over two years of experience in machine learning engineering, I have a soli
 Currently pursuing my master's in Applied Computer Science at Grand Valley State University, I am also serving as a graduate assistant and solving a real-life problem by automating software test generation using NLP. I am always seeking new opportunities to apply my skills and contribute to the exciting field of AI.
 
 
-## Who I am
+## 🔈 Who I am
 
 
- - ⚙️ Interested in Sorftware Engineering, Backend Engineering, Distributed Systems, ML System Design.
+ - 🔍 Interested in Sorftware Engineering, Backend Engineering, Distributed Systems, ML System Design.
 
- - ☕ Up for Fishing, Vollyball, Football, a cup of Coffee.
+ - 🎣 Up for Fishing, Vollyball, Football, a cup of Coffee.
 
- - 📚 Currently reading Winter of The World by Ken Follet.
+ - 📖 Currently reading Winter of The World by Ken Follet.
 
-## Tech Stack
+## ⚙️ Tech Stack
 
 **Programming:**  Python, R, C/C++, JavaScript. 
 
@@ -38,10 +38,10 @@ Currently pursuing my master's in Applied Computer Science at Grand Valley State
 **Miscellaneous:** ElasticSearch, Redis, Celery, Scrappy.
 
 
-### Problem Solving Stats
+### ✔️ Problem Solving Stats
 <p float="left">
-<img height="150em" src="https://leetcard.jacoblin.cool/systemfraud?theme=light&font=Karma&ext=contest" />
-<img height="150em" src="https://raw.githubusercontent.com/azizHakim/cf-stats/main/output/light_card.svg" />
+<img Height= "100em" src="https://leetcard.jacoblin.cool/systemfraud?theme=light&font=Karma&ext=contest" />
+<img Height="100em" src="https://raw.githubusercontent.com/azizHakim/cf-stats/main/output/light_card.svg" />
 
 </p>
 
