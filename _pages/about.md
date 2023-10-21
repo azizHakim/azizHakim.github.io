@@ -39,11 +39,12 @@ Currently pursuing my master's in Applied Computer Science at Grand Valley State
 
 
 ## ✔️ Problem Solving Stats
+<div>
 <p float="left">
 <img Height= "150em" src="https://leetcard.jacoblin.cool/systemfraud?theme=light&font=Karma&ext=contest&width=500&height=200&ext=contest" />
 <img Height="120em" src="https://raw.githubusercontent.com/azizHakim/cf-stats/main/output/light_card.svg" />
 </p>
-
+</div>
 ## ⚡ Github Stats
 <p float="left">
 <img height="150em" src="https://raw.githubusercontent.com/azizHakim/github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
