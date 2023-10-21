@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Gi, This is Aziz"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-This is Aziz an ML engineer with an interest in DevOps and System Design. I’m currently working as a Graduate Assistnt at GVSU
 
-## Few Things about me
+With over two years of experience in machine learning engineering, I have a solid background in data preprocessing, model training, inference, and deployment. I am particularly interested in building backend systems that can scale and handle large amounts of data. 
 
-1. Interested in Sorftware Engineering, Backend Engineering, Distributed Systems, ML System Design.
+Currently pursuing my master's in Applied Computer Science at Grand Valley State University, I am also serving as a graduate assistant and solving a real-life problem by automating software test generation using NLP. I am always seeking new opportunities to apply my skills and contribute to the exciting field of AI.
 
-2. Up for Fishing, Vollyball, Football, a cup of Coffee.
 
-3. Currently reading Winter of The World by Ken Follet.
+## Who I am
+
+ - Interested in Sorftware Engineering, Backend Engineering, Distributed Systems, ML System Design.
+
+ - Up for Fishing, Vollyball, Football, a cup of Coffee.
+
+ - Currently reading Winter of The World by Ken Follet.
 
 ## Tech Stack
 
@@ -31,6 +35,9 @@ This is Aziz an ML engineer with an interest in DevOps and System Design. I’m 
 **DevOps:** AWS S3 / EC2, Docker, Git / GitHub, Bash.
 
 **Miscellaneous:** ElasticSearch, Redis, Celery, Scrappy.
+
+
+# System Analysis and Design HW
 
 ***
 ## Team C++ System Analysis and Design Term Project
