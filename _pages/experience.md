@@ -10,7 +10,7 @@ author_profile: true
 ## Work Experience
 
 ### **Graduate Assistant**
-**Company:** Grand Valley STate University
+**Company:** Grand Valley STate University 
 **Location:** Grand Rapidt, MI, USA
 **Duration:** Jan. 2023 -
 
