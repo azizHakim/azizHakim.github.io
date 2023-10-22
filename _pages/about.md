@@ -42,23 +42,24 @@ Currently pursuing my master's in Applied Computer Science at Grand Valley State
 <head>
   <style>
     .custom-image {
-      height: 180px; /* Set the desired height */
+      height: 250px; /* Set the desired height */
     }
   </style>
 </head>
 <body>
 <p float="left">
 <img class="custom-image" decoding="async" loading="lazy" src="https://leetcard.jacoblin.cool/systemfraud?theme=light&font=Karma&ext=contest&ext=contest" />
-</body>
-<!-- <img class="custom-image" decoding="async" loading="lazy" src="https://raw.githubusercontent.com/azizHakim/cf-stats/main/output/light_card.svg" />
-</p> -->
 
+<!-- <img class="custom-image" decoding="async" loading="lazy" src="https://raw.githubusercontent.com/azizHakim/cf-stats/main/output/light_card.svg" /> -->
+</p>
+</body>
 
 <!-- ## ⚡ Github Stats
 <p float="left">
 <img height="150em" decoding="async" loading="lazy" src="https://raw.githubusercontent.com/azizHakim/github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
 <img height="150em" decoding="async" loading="lazy" src="https://raw.githubusercontent.com/azizHakim/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
 </p> -->
+
 
 # System Analysis and Design HW
 
