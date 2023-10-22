@@ -42,7 +42,7 @@ Currently pursuing my master's in Applied Computer Science at Grand Valley State
 <head>
   <style>
     .custom-image {
-      height: 200px; /* Set the desired height */
+      height: 180px; /* Set the desired height */
     }
   </style>
 </head>
@@ -52,6 +52,7 @@ Currently pursuing my master's in Applied Computer Science at Grand Valley State
 <img class="custom-image" src="https://raw.githubusercontent.com/azizHakim/cf-stats/main/output/light_card.svg" />
 </p>
 </body>
+
 ## ⚡ Github Stats
 <p float="left">
 <img height="150em" src="https://raw.githubusercontent.com/azizHakim/github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
