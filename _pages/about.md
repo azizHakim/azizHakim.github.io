@@ -53,11 +53,11 @@ Currently pursuing my master's in Applied Computer Science at Grand Valley State
 </p>
 </body>
 
-<!-- ## ⚡ Github Stats
+## ⚡ Github Stats
 <p float="left">
-<img height="150em" src="https://raw.githubusercontent.com/azizHakim/github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
-<img height="150em" src="https://raw.githubusercontent.com/azizHakim/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
-</p> -->
+<img height="150em" decoding="async" loading="lazy" src="https://raw.githubusercontent.com/azizHakim/github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
+<img height="150em" decoding="async" loading="lazy" src="https://raw.githubusercontent.com/azizHakim/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
+</p>
 
 # System Analysis and Design HW
 
