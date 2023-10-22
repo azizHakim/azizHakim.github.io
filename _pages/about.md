@@ -48,8 +48,8 @@ Currently pursuing my master's in Applied Computer Science at Grand Valley State
 </head>
 <body>
 <p float="left">
-<img class="custom-image" src="https://leetcard.jacoblin.cool/systemfraud?theme=light&font=Karma&ext=contest&ext=contest" />
-<img class="custom-image" src="https://raw.githubusercontent.com/azizHakim/cf-stats/main/output/light_card.svg" />
+<img class="custom-image" decoding="async" loading="lazy" src="https://leetcard.jacoblin.cool/systemfraud?theme=light&font=Karma&ext=contest&ext=contest" />
+<img class="custom-image" decoding="async" loading="lazy" src="https://raw.githubusercontent.com/azizHakim/cf-stats/main/output/light_card.svg" />
 </p>
 </body>
 
