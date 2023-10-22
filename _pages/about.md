@@ -42,7 +42,7 @@ Currently pursuing my master's in Applied Computer Science at Grand Valley State
 <head>
   <style>
     .custom-image {
-      height: 150px; /* Set the desired height */
+      height: 200px; /* Set the desired height */
     }
   </style>
 </head>
