@@ -34,6 +34,7 @@ Currently pursuing my master's in Applied Computer Science at Grand Valley State
 **Database:** MySQL, PostgreSQL, MongoDB.
 
 **DevOps:** AWS S3 / EC2, Docker, Git / GitHub, Bash.
+
 **Machine Learning:** Tensorflow, PyTorch, Keras, NumPy, Pandas, scikit‑learn, OpenCV, Darknet, HuggingFace, LLMs, ChatGPT, Prompt engineering.
 
 **Miscellaneous:** ElasticSearch, Redis, Celery, Scrappy.
@@ -55,11 +56,11 @@ Currently pursuing my master's in Applied Computer Science at Grand Valley State
 </p>
 </body>
 
-<!-- ## ⚡ Github Stats
+## ⚡ Github Stats
 <p float="left">
 <img height="150em" decoding="async" loading="lazy" src="https://raw.githubusercontent.com/azizHakim/github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
 <img height="150em" decoding="async" loading="lazy" src="https://raw.githubusercontent.com/azizHakim/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
-</p> -->
+</p>
 
 
 # System Analysis and Design HW
