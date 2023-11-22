@@ -56,11 +56,11 @@ Currently pursuing my master's in Applied Computer Science at Grand Valley State
 </p>
 </body>
 
-## ⚡ Github Stats
-<p float="left">
-<img height="150em" decoding="async" loading="lazy" src="https://raw.githubusercontent.com/azizHakim/github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
-<img height="150em" decoding="async" loading="lazy" src="https://raw.githubusercontent.com/azizHakim/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
-</p>
+@REM ## ⚡ Github Stats
+@REM <p float="left">
+@REM <img height="150em" decoding="async" loading="lazy" src="https://raw.githubusercontent.com/azizHakim/github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
+@REM <img height="150em" decoding="async" loading="lazy" src="https://raw.githubusercontent.com/azizHakim/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
+@REM </p>
 
 
 <p align="left"> 
