@@ -11,6 +11,7 @@ author_profile: true
 
 ### **Graduate Assistant**
 **Company:** Grand Valley STate University 
+
 **Location:** Grand Rapidt, MI, USA
 **Duration:** Jan. 2023 -
 
