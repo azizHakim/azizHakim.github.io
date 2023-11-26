@@ -23,7 +23,7 @@ Language Models (LLMs).
 
 ### **Machine Learning Engineer**
 **Company:** [Reea Digital](https://www.reeadigital.com) \
-**Location:** Dhaka, Bangladesh $~~~~~~~~~~~$ **Duration:** Nov. 2022 - Dec. 2022
+**Location:** Dhaka, Bangladesh $~~~~~~~~~~~~~~~~$ **Duration:** Nov. 2022 - Dec. 2022
 #### Project: Watch Innoviant
  - Evaluated the performance of diverse machine learning models for automatic data preprocessing and annotation.
  - Fine‑tuned an Electra‑QA model to annotate watch features from raw descriptions.
@@ -31,7 +31,7 @@ Language Models (LLMs).
 
 ### **Research Engineer**
 **Company:** Aims Lab, United International University \
-**Location:** Dhaka, Bangladesh $~~~~~~~~~~~$ **Duration:** Mar. 2022 - Sep. 2022
+**Location:** Dhaka, Bangladesh $~~~~~~~~~~~~~~~$ **Duration:** Mar. 2022 - Sep. 2022
 #### Project: Smart Receptionist
  - Designed and developed an AI Smart Receptionist web application, encompassing front‑end and back‑end components, featuring speaker
 identification, face recognition, and a conversational module.
@@ -40,7 +40,7 @@ identification, face recognition, and a conversational module.
 
 ### **Software Engineer, Machine Learning**
 **Company:** [Gigalogy](https://gigalogy.com) \
-**Location:** Dhaka, Bangladesh $~~~~~~~~~~~$ **Duration:** Mar. 2020 - Oct. 2021
+**Location:** Dhaka, Bangladesh $~~~~~~~~~~~~~~~~$ **Duration:** Mar. 2020 - Oct. 2021
 #### Project: NLU
  - Collaborated directly with the CEO to create an NLU engine based on Rasa, enabling integration into existing chatbots.
  - Demonstrated strong analytical and problem‑solving skills by crafting a complex JSON parser.
@@ -66,7 +66,7 @@ for production.
 ## Internships
 ### **Student Intern**
 **Company:** [Solution Art](https://solutionart.net) \
-**Location:** Dhaka, Bangladesh $~~~~~~~~~~~$ **Duration:** December, 2017
+**Location:** Dhaka, Bangladesh $~~~~~~~~~~~~~~$ **Duration:** December, 2017
 
 - Worked for setting up a private IM server to establish a p2p connection for audio, video, and text messaging.
 - Used prosody as the XMPP communication server and Jitsi as the XMPP client.
