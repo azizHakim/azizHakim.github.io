@@ -10,9 +10,8 @@ author_profile: true
 ## Work Experience
 
 ### **Graduate Assistant**
-**Company:** Grand Valley State University 
-
-**Location:** Grand Rapids, MI, USA        **Duration:** Jan. 2023 -
+**Company:** Grand Valley State University \
+**Location:** Grand Rapids, MI, USA     $~~~~~~~~~~~$    **Duration:** Jan. 2023 -
 
 #### Project: Automatic Test Case Generation
  - Automating software test generation, resulting in a 5x reduction in test generation time, leveraging state‑of‑the‑art NLP models and knowledge
@@ -23,19 +22,16 @@ requirements converter.
 Language Models (LLMs).
 
 ### **Machine Learning Engineer**
-**Company:** [Reea Digital](https://www.reeadigital.com)
-
-**Location:** Dhaka, Bangladesh      **Duration:** Nov. 2022 - Dec. 2022
+**Company:** [Reea Digital](https://www.reeadigital.com) \
+**Location:** Dhaka, Bangladesh $~~~~~~~~~~~$ **Duration:** Nov. 2022 - Dec. 2022
 #### Project: Watch Innoviant
  - Evaluated the performance of diverse machine learning models for automatic data preprocessing and annotation.
  - Fine‑tuned an Electra‑QA model to annotate watch features from raw descriptions.
  - Achieved over a 10‑fold reduction in data annotation costs and time by leveraging large language models for data annotation.
-#### Tech Stack: 
 
 ### **Research Engineer**
-**Company:** Aims Lab, United International University
-
-**Location:** Dhaka, Bangladesh      **Duration:** Mar. 2022 - Sep. 2022
+**Company:** Aims Lab, United International University \
+**Location:** Dhaka, Bangladesh $~~~~~~~~~~~$ **Duration:** Mar. 2022 - Sep. 2022
 #### Project: Smart Receptionist
  - Designed and developed an AI Smart Receptionist web application, encompassing front‑end and back‑end components, featuring speaker
 identification, face recognition, and a conversational module.
@@ -43,9 +39,8 @@ identification, face recognition, and a conversational module.
 
 
 ### **Software Engineer, Machine Learning**
-**Company:** [Gigalogy](https://gigalogy.com)
-
-**Location:** Dhaka, Bangladesh      **Duration:** Mar. 2020 - Oct. 2021
+**Company:** [Gigalogy](https://gigalogy.com) \
+**Location:** Dhaka, Bangladesh $~~~~~~~~~~~$ **Duration:** Mar. 2020 - Oct. 2021
 #### Project: NLU
  - Collaborated directly with the CEO to create an NLU engine based on Rasa, enabling integration into existing chatbots.
  - Demonstrated strong analytical and problem‑solving skills by crafting a complex JSON parser.
@@ -70,9 +65,8 @@ for production.
 
 ## Internships
 ### **Student Intern**
-**Company:** [Solution Art](https://solutionart.net)
-
-**Location:** Dhaka, Bangladesh      **Duration:** December, 2017
+**Company:** [Solution Art](https://solutionart.net) \
+**Location:** Dhaka, Bangladesh $~~~~~~~~~~~$ **Duration:** December, 2017
 
 - Worked for setting up a private IM server to establish a p2p connection for audio, video, and text messaging.
 - Used prosody as the XMPP communication server and Jitsi as the XMPP client.
