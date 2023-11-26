@@ -30,7 +30,7 @@ Language Models (LLMs).
  - Evaluated the performance of diverse machine learning models for automatic data preprocessing and annotation.
  - Fine‑tuned an Electra‑QA model to annotate watch features from raw descriptions.
  - Achieved over a 10‑fold reduction in data annotation costs and time by leveraging large language models for data annotation.
-
+#### Tech Stack: 
 
 ### **Research Engineer**
 **Company:** Aims Lab, United International University
