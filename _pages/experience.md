@@ -51,6 +51,7 @@ identification, face recognition, and a conversational module.
  - Collaborated directly with the CEO to create an NLU engine based on Rasa, enabling integration into existing chatbots.
  - Demonstrated strong analytical and problem‑solving skills by crafting a complex JSON parser.
  - Developed an AI voice assistant based on the NLU engine.
+
 #### Computer Vision
  - Evaluated various deep learning based object detection algorithms for improved inference time and memory usage on AWS EC2.
  - Created computer vision APIs using OpenCV and TensorFlow for object detection, age‑gender prediction, and emotion recognition from both
@@ -58,7 +59,8 @@ images and videos.
  - Enhanced deep learning based object detection inference time by over 50%, resolved CUDA GPU memory leaks in Darknet, and containerized
 for production.
  - Implemented the periodic upload of detection results to AWS S3 using Celery and Redis.
-#### Product Search ENgine
+ 
+#### Product Search Engine
  - Created a product search engine using Elasticsearch with text and categorical filters.
  - Expanded the existing recommendation engine with an image recommendation feature
 
