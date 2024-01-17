@@ -33,9 +33,9 @@ Currently pursuing my master's in Applied Computer Science at Grand Valley State
 
 **Database:** MySQL, PostgreSQL, MongoDB.
 
-**DevOps:** AWS S3 / EC2, Docker, Git / GitHub, Bash.
+**DevOps:** AWS S3 / EC2, Nginx, Docker, Git / GitHub, Bash.
 
-**Machine Learning:** Tensorflow, PyTorch, Keras, NumPy, Pandas, scikit‑learn, OpenCV, Darknet, HuggingFace, LLMs, ChatGPT, Prompt engineering.
+**Machine Learning:** Tensorflow, PyTorch, Keras, NumPy, Pandas, scikit‑learn, OpenCV, Darknet, HuggingFace, LLMs, ChatGPT, Prompt engineering, LlamaIndex, MLFlow. 
 
 **Miscellaneous:** ElasticSearch, Redis, Celery, Scrappy.
 
