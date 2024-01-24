@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+Software engineer with 3+ years of experience specializing in machine learning and backend systems. I am a problem solver with a neck for taking on complex technical problems and finding solutions from a business perspective. Love to take ownership and work autonomously. I have a solid background in data preprocessing, model training, inference, and deployment. I am particularly interested in building backend systems to scale.
 
-With over two years of experience in machine learning engineering, I have a solid background in data preprocessing, model training, inference, and deployment. I am particularly interested in building backend systems that can scale and handle large amounts of data. 
+Currently pursuing my master’s in applied computer science at Grand Valley State University, I am also working as a graduate assistant and solving a real-life problem by automating software test generation using Generative AI. My previous experiences involved NLP (natural language understanding i.e. intent and entity recognition, QA models), Computer Vision (object detection, age-gender prediction, OCR), Feature engineering, and clustering.
 
-Currently pursuing my master's in Applied Computer Science at Grand Valley State University, I am also serving as a graduate assistant and solving a real-life problem by automating software test generation using NLP. I am always seeking new opportunities to apply my skills and contribute to the exciting field of AI.
+I have also been building containerized backend systems with Flask, Fast API, Nginx, MySQL, MongoDB, etc. Can turn into a React frondend developer if necessary
 
 
 ## 🔈 Who I am
