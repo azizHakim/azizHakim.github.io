@@ -70,5 +70,5 @@ author_profile: true
 **Company:** [Solution Art](https://solutionart.net) \
 **Location:** Dhaka, Bangladesh $~~~~~~~~~~~~~~$ **Duration:** December, 2017
 
-- Worked for setting up a private IM server to establish a p2p connection for audio, video, and text messaging.
+- Configured a private Instant Messaging (IM) server to facilitate peer-to-peer (P2P) connections for audio, video, and text messaging.
 - Used prosody as the XMPP communication server and Jitsi as the XMPP client.
