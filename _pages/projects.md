@@ -2,7 +2,7 @@
 permalink: /
 title: "Projects"
 excerpt: "Projects"
-permalink: /experience/
+permalink: /projects/
 author_profile: true
 ---
 
