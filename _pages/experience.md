@@ -15,7 +15,7 @@ author_profile: true
  - Conducted experiments with zero-shot and few-shot prompt engineering techniques initially on ChatGPT, then on open-source Large Language Models (LLMs) like LLaMA to create an unstructured to structured requirements converter.
  - Developed a multi‑panel visualization tool utilizing Flask and React to convert semi‑structured requirements into structured formats.
  - Built an active learning pipeline to facilitate the continuous training and testing of the CodeT5 model, enhancing its ability to structure software test requirements.
- - Built GPU enabled Docker containerized LLM API CodeT5 converter API.
+ - Built GPU enabled Docker containerized LLM API and CodeT5 converter API.
 
 
 ### **Machine Learning Engineer | [Reea Digital](https://www.reeadigital.com) | Dhaka, Bangladesh | November 2022 - December 2022**
