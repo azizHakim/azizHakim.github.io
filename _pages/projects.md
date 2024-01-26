@@ -10,7 +10,7 @@ author_profile: true
 
 ### **rag-chatapp: A financial assistant chatbot powered by ChatGPT and Retrieval Augmented Generation(RAG)** [github](https://github.com/azizHakim/rag-chatapp)
 
-- Built with Streamlit, LlamaIndex, and OpenAI API
+- Built with Streamlit, LlamaIndex, and OpenAI API, Selenium, and Docker
 - Answers queries regarding finance by scraping through the latest financial news articles.
 
 
