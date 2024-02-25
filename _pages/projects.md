@@ -8,10 +8,11 @@ author_profile: true
 
 ## Opensource projects I have been working on
 
-### **rag-chatapp: A financial assistant chatbot powered by ChatGPT and Retrieval Augmented Generation(RAG)** [github](https://github.com/azizHakim/rag-chatapp)
+### **rag-chatapp: A financial assistant chatbot powered by ChatGPT and Retrieval Augmented Generation(RAG)** [web app](https://rag-chatapp-sbeilyjgrq-uc.a.run.app/) [github](https://github.com/azizHakim/rag-chatapp)
 
 - Built with Streamlit, LlamaIndex, and OpenAI API, Selenium, and Docker
 - Answers queries regarding finance by scraping through the latest financial news articles.
+- Deployed on GCP with cloud build and cloud run CI/CD pipeline.
 
 
 

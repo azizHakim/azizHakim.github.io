@@ -12,52 +12,56 @@ author_profile: true
 ### **Graduate Assistant | Grand Valley State University | Grand Rapids, MI, USA | January 2023 - Present**
 
 #### Project: Automatic Test Case Generation
- - Conducted experiments with zero-shot and few-shot prompt engineering techniques initially on ChatGPT, then on open-source Large Language Models (LLMs) like LLaMA to create an unstructured to structured requirements converter.
- - Developed a multi‑panel visualization tool utilizing Flask and React to convert semi‑structured requirements into structured formats.
- - Built an active learning pipeline to facilitate the continuous training and testing of the CodeT5 model, enhancing its ability to structure software test requirements.
- - Built GPU enabled Docker containerized LLM API and CodeT5 converter API.
+ - Conducted experiments with zero-shot and few-shot prompt engineering techniques initially on ChatGPT, then on
+open-source Large Language Models (LLMs) like LLaMA to create an unstructured to structured requirement converter.
+ - Designed a multi‑panel visualization tool utilizing Flask and React, Docker, and MongoDB to convert semi‑structured
+requirements into knowledge graphs and structured formats.
+ - Built an active learning pipeline to facilitate the continuous training and testing of the CodeT5 model.
+ - Devised a GPU enabled Docker containerized LLM API and CodeT5 converter API using LangChain.
+ - Currently fine-tuning Mistral-7B with custom unstructured to structured requirement conversion data using PEFT and LoRA
 
 
 ### **Machine Learning Engineer | [Reea Digital](https://www.reeadigital.com) | Dhaka, Bangladesh | November 2022 - December 2022**
 
 #### Project: Watch Innoviant
- - Evaluated the performance of BERT variants like ALBERT, RoBERTa, and DistilBERT for automatic data preprocessing and annotation using state-of-the-art Natural Language Processing (NLP)  models at the research and development phase.
+ - Evaluated the performance of BERT based state-of-the-art Natural Language Processing (NLP) models like ALBERT,
+RoBERTa, and DistilBERT for automatic data preprocessing and annotation at the research and development phase.
  - Fine‑tuned an Electra-QA model to annotate watch features from raw descriptions.
- - Achieved over a 10‑fold reduction in data annotation costs and time by leveraging large language models for data annotation.
-
-
+ - Over a 10‑fold reduction in data annotation costs and time by leveraging large language models for data annotation.
 ### **Research Engineer | United International University | Dhaka, Bangladesh | March 2022 - September 2022**
 
 #### Project: Smart Receptionist
- - Designed and developed a full-stack artificial intelligence based Smart Receptionist web application, with React frontend, Flask backend, and MySQL database.
- - Containerized and deployed the microservices on a Linux server using Docker and Nginx.
-
+ - Developed full-stack artificial intelligence based Smart Receptionist web application, with React frontend, Flask backend,
+and MySQL database.
+ - Deployed the microservices on a Linux server using Docker and Nginx containerization.
 
 
 
 ### **Software Engineer, Machine Learning | [Gigalogy](https://gigalogy.com) | Dhaka, Bangladesh | March 2020 - October 2021**
 
 #### Project: NLU
- - Built NLU REST API back-end engine, enabling integration into existing chatbots and prioritizing optimal user experience.
- - Demonstrated strong analytical and problem-solving skills by crafting a complex JSON parser.
- - Developed an AI voice assistant based on the NLU engine.
+ - Built NLU, an intent and named entity recognition (NER) engine, capable of integrating into existing chatbots with FastAPI.
+ - crafted a complex JSON parser to store NLU data into MySQL database.
+ - Devised an AI voice assistant based on the NLU engine.
 
 
 #### Project: Computer Vision
- - Evaluated various deep learning based object detection algorithms for inference and memory usage on AWS EC2.
- - Created computer vision APIs using OpenCV and TensorFlow for object detection, age-gender prediction, and emotion recognition from both images and videos.
- - Enhanced deep learning based object detection inference time by over 50% by resolving CUDA GPU memory leaks in Darknet and containerized for production.
- - Implemented the scheduled batch upload of detection results to AWS S3 using Celery and Redis.
+ - Created computer vision based REST API using OpenCV and TensorFlow for age-gender prediction, and emotion
+recognition from images and videos.
+ - Evaluated YOLO object detection algorithm for inference and memory usage.
+ - Experimented with TFLite and ONNX conversion of object detection models.
+ - Enhanced deep learning based object detection inference time by over 50% by resolving CUDA GPU memory leaks in
+Darknet and deployed containerized microservice on AWS EC2.
+ - Composed a scheduled batch upload of object detection results to AWS S3 using Celery and Redis
 
 
 #### Project: Product Search Engine
  - Created a product search engine using Elasticsearch with text and categorical filters.
- - Added image recommendations to the existing recommendation engine through image processing and feature vectorization.
+ - Integrated image recommendations to existing recommendation engine through image processing and feature vectorization.
 
 
 #### Project: Budget Optimization for Ad Campaigns
- - Implemented a machine learning based budget prediction feature for online ad campaigns through feature engineering and clustering.
-
+ - Implemented a machine learning based budget prediction feature for online ad campaigns.
 
 
 ## Internships
