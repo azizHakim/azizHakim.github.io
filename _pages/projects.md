@@ -6,7 +6,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Opensource projects I have been working on
+## Open source projects I have been working on
 
 ### **rag-chatapp: A financial assistant chatbot powered by ChatGPT and Retrieval Augmented Generation(RAG)** [web app](https://rag-chatapp-sbeilyjgrq-uc.a.run.app/) [github](https://github.com/azizHakim/rag-chatapp)
 
